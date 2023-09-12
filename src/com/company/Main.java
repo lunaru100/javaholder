@@ -8,5 +8,6 @@ public class Main {
         System.out.println(genericHolder.getObj().getClass().getSimpleName());
         genericHolder.setObj(333);
         System.out.println(genericHolder.getObj());
+        //komentarz
     }
 }
